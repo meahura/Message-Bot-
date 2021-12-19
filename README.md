@@ -6,6 +6,7 @@ Youtube onwer : http://www.youtube.com/channel/UC7bC5Py8F7LAZBrGKz7gfww
 # pkg needs run file : 
 <li>Pyrogram</li> 
 <li> pyromod </li> 
+<hr> 
 # api_id and api_hash (Telegram): 
 <p> 
 site telegram : https://my.telegram.org/auth  
